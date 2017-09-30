@@ -1,0 +1,24 @@
+{
+  "name": "express-template",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon --config .nodemonrc server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "author": "wangdahoo",
+  "license": "MIT",
+  "description": "A Simple Express Template"
+}
