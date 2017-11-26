@@ -1,5 +1,5 @@
 {
-  "name": "express-template",
+  "name": "createmyapp-express-simple",
   "version": "0.1.0",
   "main": "server.js",
   "scripts": {
@@ -20,5 +20,5 @@
   },
   "author": "wangdahoo",
   "license": "MIT",
-  "description": "A Simple Express Template"
+  "description": "A Simple Express Project Seed"
 }
