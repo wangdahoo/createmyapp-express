@@ -1,9 +1,4 @@
-### Code ###
-# Visual Studio Code - https://code.visualstudio.com/
-.settings/
-.vscode/
-tsconfig.json
-jsconfig.json
+# Created by https://www.gitignore.io/api/node
 
 ### Node ###
 # Logs
@@ -65,5 +60,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# local data
-db.json
+
+# Mac
+.DS_Store
